@@ -18,7 +18,7 @@ To get the application running locally, follow these steps:
 
     ```bash
     git clone https://github.com/XENO2410/Legal-Document-Processor.git
-    cd yourrepository
+    cd Legal-Document-Processor
     ```
 
 2. Create and activate a Python virtual environment:

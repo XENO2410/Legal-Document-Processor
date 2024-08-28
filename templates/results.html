@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Processed Results</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles_results.css') }}" />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <header id="navbar">
+      <nav class="navbar">
+        <div class="navbar-brand">
+          <a href="{{ url_for('index') }}">Legal Document Processor</a>
+        </div>
+      </nav>
+    </header>
+    <main>
+      <section class="results-container">
+        <h2>Processed Legal Document Results</h2>
+
+        <!-- Metadata Section -->
+        <section class="metadata">
+          <h3>Metadata</h3>
+          <ul>
+            <li><strong>Document Type:</strong> {{ metadata['document_type'] }}</li>
+            <li><strong>Court:</strong> {{ metadata['court'] }}</li>
+            <li>
+              <strong>Legal Provisions:</strong>
+              {% for provision in metadata['legal_provisions'] %}
+                {{ provision }}{% if not loop.last %}, {% endif %}
+              {% endfor %}
+            </li>
+            <li><strong>Petitioner:</strong> {{ metadata['petitioner'] }}</li>
+            <li><strong>Respondent:</strong> {{ metadata['respondent'] }}</li>
+            <li><strong>Case Number:</strong> {{ metadata['case_number'] }}</li>
+            <li><strong>Date of Judgment:</strong> {{ metadata['date_of_judgment'] }}</li>
+            <li><strong>Judge:</strong> {{ metadata['judge'] }}</li>
+            <li><strong>Detected Defects:</strong> {{ defects }}</li>
+          </ul>
+        </section>
+
+        <!-- Entities Section -->
+        <section class="entities">
+          <h3>Entities</h3>
+          <ul>
+            {% for entity, label in entities %}
+            <li>{{ entity }} - <strong>{{ label }}</strong></li>
+            {% endfor %}
+          </ul>
+        </section>
+
+        <!-- Tokens Section -->
+        <section class="tokens">
+          <h3>Tokens</h3>
+          <ul>
+            {% for token in tokens %}
+            <li>{{ token }}</li>
+            {% endfor %}
+          </ul>
+        </section>
+
+        <!-- Button Group -->
+        <div class="button-group">
+          <a href="{{ url_for('download_csv', filename=filename) }}" class="btn btn-primary">Download Processed Data (CSV)</a>
+        </div>
+      </section>
+    </main>
+    <footer>
+      <p>&copy; {{ year }} Legal Document Processor. All rights reserved.</p>
+    </footer>
+    
+    <!-- Back to Top Button -->
+    <a href="#" id="back-to-top" class="btn btn-secondary">
+      ↑
+    </a>
+
+    <!-- JavaScript for Smooth Scrolling and Visibility -->
+    <script>
+      // Show the button when scrolled down 100px from the top
+      window.addEventListener('scroll', function () {
+        const backToTopButton = document.getElementById('back-to-top');
+        if (window.scrollY > 100) {
+          backToTopButton.style.display = 'block';
+        } else {
+          backToTopButton.style.display = 'none';
+        }
+      });
+
+      document.getElementById('back-to-top').addEventListener('click', function (e) {
+        e.preventDefault();
+        window.scrollTo({
+          top: 0,
+          behavior: 'smooth'
+        });
+      });
+    </script>
+  </body>
+</html>

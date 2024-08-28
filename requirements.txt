@@ -1,0 +1,4 @@
+spacy==3.5.0
+scikit-learn==1.2.0
+pandas==2.0.0
+flask==2.3.0

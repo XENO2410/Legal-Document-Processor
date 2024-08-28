@@ -1,0 +1,211 @@
+/* General Styles */
+body {
+    font-family: 'Roboto', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background: #e9ecef; /* Match the background color from index.html */
+}
+
+header {
+    position: fixed; /* Fix the navbar at the top */
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    background-color: rgba(255, 255, 255, 0.8); /* Transparent background */
+    backdrop-filter: blur(10px); /* Adds blur effect */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Light shadow for depth */
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    padding: 10px 0; /* Padding to ensure the content inside is spaced well */
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between; /* Space between brand and menu */
+    align-items: center;
+    padding: 25px;
+    background-color: rgba(255, 255, 255, 0.8); /* Transparent background */
+    backdrop-filter: blur(10px); /* Optional: Adds a blur effect to the background */
+    position: relative; /* Position relative for absolute positioning of the brand */
+}
+
+.navbar-brand {
+    position: absolute; /* Position brand text in the center */
+    left: 50%;
+    transform: translateX(-50%); /* Center horizontally */
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.navbar-brand a {
+    color: #00001a;
+    text-decoration: none;
+}
+
+.navbar-menu {
+    display: flex;
+    justify-content: flex-end; /* Align menu items to the right */
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.navbar-menu a {
+    color: #00001a; /* Dark text color */
+    text-decoration: none;
+    font-size: 18px;
+    transition: color 0.3s ease;
+}
+
+.navbar-menu a:hover {
+    color: #000033; /* Highlight color on hover */
+}
+
+/* Main Content */
+main {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 100px auto 20px; /* Adds top margin to avoid overlap with fixed navbar */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.results-container {
+    background: #fff;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    max-width: 800px;
+    width: 100%;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+h2, h3 {
+    color: #000033;
+    margin-bottom: 15px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding: 12px 0;
+    border-bottom: 1px solid #eee;
+}
+
+li:last-child {
+    border-bottom: none;
+}
+
+.metadata ul, .tokens ul, .entities ul {
+    margin: 0;
+}
+
+/* Buttons */
+.button-group {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+}
+
+.btn {
+    display: inline-block;
+    padding: 12px 25px;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 18px;
+    text-align: center;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    transform: scale(1.05);
+}
+
+/* .btn-secondary {
+    background-color: #6c757d;
+    color: #fff;
+}
+
+.btn-secondary:hover {
+    background-color: #5a6268;
+    transform: scale(1.05);
+} */
+
+/* Footer */
+footer {
+    background-color: rgba(255, 255, 255, 0.8); /* Match the transparent background from index.html */
+    color: #00001a; /* Dark text color */
+    padding: 10px 0;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Back to Top Button */
+#back-to-top {
+    position: fixed;
+    bottom: 20px; /* Adjust this value as needed */
+    right: 20px;
+    display: none; /* Hidden by default */
+    padding: 10px;
+    width: 40px;
+    height: 40px;
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 50%;
+    font-size: 24px;
+    text-align: center;
+    line-height: 40px; 
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    z-index: 1000; /* Ensure it stays above other content */
+}
+
+#back-to-top:hover {
+    background-color: #0056b3;
+    transform: scale(1.1);
+}
+
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    .navbar {
+        padding: 15px;
+    }
+
+    .navbar-brand {
+        font-size: 20px;
+    }
+
+    .results-container {
+        padding: 20px;
+    }
+
+    h2 {
+        font-size: 24px;
+    }
+
+    h3 {
+        font-size: 20px;
+    }
+
+    .btn {
+        padding: 10px 20px;
+        font-size: 16px;
+    }
+}

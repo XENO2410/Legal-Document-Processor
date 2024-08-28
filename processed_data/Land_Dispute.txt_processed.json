@@ -1,0 +1,198 @@
+{
+    "tokens": [
+        "Petitioner",
+        ":",
+        "Vinod",
+        "Verma",
+        "\n",
+        "Respondent",
+        ":",
+        "Suraj",
+        "Singh",
+        "\n\n",
+        "Filed",
+        "under",
+        "the",
+        "Transfer",
+        "of",
+        "Property",
+        "Act",
+        ",",
+        "1882",
+        ".",
+        "\n\n",
+        "Vinod",
+        "Verma",
+        ",",
+        "residing",
+        "in",
+        "Bhopal",
+        ",",
+        "Madhya",
+        "Pradesh",
+        ",",
+        "files",
+        "this",
+        "suit",
+        "in",
+        "the",
+        "District",
+        "Court",
+        "of",
+        "Bhopal",
+        ",",
+        "seeking",
+        "a",
+        "declaration",
+        "of",
+        "ownership",
+        "over",
+        "a",
+        "disputed",
+        "property",
+        "located",
+        "at",
+        "12",
+        ",",
+        "Ashok",
+        "Vihar",
+        ",",
+        "Bhopal",
+        ",",
+        "as",
+        "per",
+        "the",
+        "terms",
+        "of",
+        "a",
+        "sale",
+        "deed",
+        "executed",
+        "on",
+        "15th",
+        "October",
+        "2022",
+        ".",
+        "\n\n",
+        "Address",
+        "of",
+        "Petitioner",
+        ":",
+        "23",
+        ",",
+        "Lake",
+        "View",
+        "Road",
+        ",",
+        "Bhopal",
+        ",",
+        "Madhya",
+        "Pradesh",
+        "462001",
+        "\n",
+        "Address",
+        "of",
+        "Respondent",
+        ":",
+        "56",
+        ",",
+        "Patel",
+        "Nagar",
+        ",",
+        "Bhopal",
+        ",",
+        "Madhya",
+        "Pradesh",
+        "462003",
+        "\n"
+    ],
+    "entities": [
+        [
+            "Vinod Verma\nRespondent",
+            "PERSON"
+        ],
+        [
+            "Suraj Singh",
+            "PERSON"
+        ],
+        [
+            "the Transfer of Property Act",
+            "ORG"
+        ],
+        [
+            "1882",
+            "DATE"
+        ],
+        [
+            "Vinod Verma",
+            "PERSON"
+        ],
+        [
+            "Bhopal",
+            "GPE"
+        ],
+        [
+            "the District Court of Bhopal",
+            "ORG"
+        ],
+        [
+            "12",
+            "CARDINAL"
+        ],
+        [
+            "Ashok Vihar",
+            "PERSON"
+        ],
+        [
+            "15th October 2022",
+            "DATE"
+        ],
+        [
+            "23",
+            "CARDINAL"
+        ],
+        [
+            "Lake View Road",
+            "FAC"
+        ],
+        [
+            "Madhya",
+            "PERSON"
+        ],
+        [
+            "462001",
+            "DATE"
+        ],
+        [
+            "Address of Respondent",
+            "WORK_OF_ART"
+        ],
+        [
+            "56",
+            "CARDINAL"
+        ],
+        [
+            "Patel Nagar",
+            "PERSON"
+        ],
+        [
+            "462003",
+            "DATE"
+        ]
+    ],
+    "metadata": {
+        "court": "the District Court of Bhopal",
+        "legal_provisions": [
+            "Legal provisions not found"
+        ],
+        "petitioner": "Vinod Verma\nRespondent",
+        "respondent": "Vinod Verma\nRespondent",
+        "case_number": "Case number not found",
+        "date_of_judgment": "1882",
+        "judge": "Vinod Verma\nRespondent"
+    },
+    "defects": [
+        "Legal provisions are missing.",
+        "Case number is missing."
+    ]
+}

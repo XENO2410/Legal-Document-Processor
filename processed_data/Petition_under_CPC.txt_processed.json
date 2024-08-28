@@ -1,0 +1,201 @@
+{
+    "tokens": [
+        "Petitioner",
+        ":",
+        "Suresh",
+        "Babu",
+        "\n",
+        "Respondent",
+        ":",
+        "Anil",
+        "Kumar",
+        "\n\n",
+        "Filed",
+        "under",
+        "Order",
+        "VII",
+        "Rule",
+        "1",
+        "of",
+        "the",
+        "Code",
+        "of",
+        "Civil",
+        "Procedure",
+        ",",
+        "1908",
+        ".",
+        "\n\n",
+        "Suresh",
+        "Babu",
+        ",",
+        "residing",
+        "in",
+        "Chennai",
+        ",",
+        "Tamil",
+        "Nadu",
+        ",",
+        "files",
+        "this",
+        "plaint",
+        "in",
+        "the",
+        "District",
+        "Court",
+        "of",
+        "Chennai",
+        "for",
+        "the",
+        "recovery",
+        "of",
+        "Rs",
+        ".",
+        "10,00,000",
+        "from",
+        "Anil",
+        "Kumar",
+        "under",
+        "a",
+        "contract",
+        "dated",
+        "12th",
+        "July",
+        "2022",
+        ".",
+        "The",
+        "petitioner",
+        "requests",
+        "the",
+        "court",
+        "to",
+        "decree",
+        "the",
+        "suit",
+        "in",
+        "his",
+        "favor",
+        ".",
+        "\n\n",
+        "Address",
+        "of",
+        "Petitioner",
+        ":",
+        "25",
+        ",",
+        "Gandhi",
+        "Road",
+        ",",
+        "Chennai",
+        ",",
+        "Tamil",
+        "Nadu",
+        "600001",
+        "\n",
+        "Address",
+        "of",
+        "Respondent",
+        ":",
+        "78",
+        ",",
+        "Nehru",
+        "Street",
+        ",",
+        "Chennai",
+        ",",
+        "Tamil",
+        "Nadu",
+        "600002",
+        "\n"
+    ],
+    "entities": [
+        [
+            "Anil Kumar",
+            "PERSON"
+        ],
+        [
+            "Order VII Rule 1",
+            "LAW"
+        ],
+        [
+            "1908",
+            "DATE"
+        ],
+        [
+            "Babu",
+            "PERSON"
+        ],
+        [
+            "Chennai",
+            "ORG"
+        ],
+        [
+            "Tamil Nadu",
+            "PERSON"
+        ],
+        [
+            "the District Court of Chennai",
+            "ORG"
+        ],
+        [
+            "Anil Kumar",
+            "PERSON"
+        ],
+        [
+            "12th July 2022",
+            "DATE"
+        ],
+        [
+            "25",
+            "CARDINAL"
+        ],
+        [
+            "Gandhi Road, Chennai",
+            "WORK_OF_ART"
+        ],
+        [
+            "Tamil Nadu 600001\nAddress of Respondent",
+            "PERSON"
+        ],
+        [
+            "78",
+            "CARDINAL"
+        ],
+        [
+            "Nehru Street",
+            "FAC"
+        ],
+        [
+            "Chennai",
+            "ORG"
+        ],
+        [
+            "Tamil Nadu 600002",
+            "PERSON"
+        ]
+    ],
+    "metadata": {
+        "document_type": "Writ Petition",
+        "court": "the District Court of Chennai",
+        "legal_provisions": [
+            "Order VII Rule 1"
+        ],
+        "petitioner": "Tamil Nadu 600001\nAddress of Respondent",
+        "respondent": "Anil Kumar",
+        "Anil Kumar": "PERSON",
+        "Order VII Rule 1": "LAW",
+        "1908": "DATE",
+        "Babu": "PERSON",
+        "Chennai": "ORG",
+        "Tamil Nadu": "PERSON",
+        "the District Court of Chennai": "ORG",
+        "12th July 2022": "DATE",
+        "25": "CARDINAL",
+        "Gandhi Road, Chennai": "WORK_OF_ART",
+        "Tamil Nadu 600001\nAddress of Respondent": "PERSON",
+        "78": "CARDINAL",
+        "Nehru Street": "FAC",
+        "Tamil Nadu 600002": "PERSON"
+    },
+    "defects": null
+}

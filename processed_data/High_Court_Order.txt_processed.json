@@ -1,0 +1,145 @@
+{
+    "tokens": [
+        "Order",
+        "issued",
+        "by",
+        "the",
+        "High",
+        "Court",
+        "of",
+        "Bombay",
+        ".",
+        "\n\n",
+        "Date",
+        ":",
+        "March",
+        "25",
+        ",",
+        "2024",
+        "\n\n",
+        "The",
+        "Court",
+        ",",
+        "after",
+        "considering",
+        "the",
+        "writ",
+        "petition",
+        "filed",
+        "under",
+        "Article",
+        "226",
+        "of",
+        "the",
+        "Constitution",
+        "of",
+        "India",
+        ",",
+        "orders",
+        "the",
+        "Municipal",
+        "Corporation",
+        "of",
+        "Mumbai",
+        "to",
+        "take",
+        "action",
+        "as",
+        "per",
+        "the",
+        "provisions",
+        "of",
+        "the",
+        "Maharashtra",
+        "Regional",
+        "and",
+        "Town",
+        "Planning",
+        "Act",
+        ",",
+        "1966",
+        ".",
+        "\n\n",
+        "This",
+        "order",
+        "is",
+        "final",
+        "and",
+        "binding",
+        ".",
+        "\n\n",
+        "Signed",
+        ",",
+        "\n",
+        "Chief",
+        "Justice",
+        "of",
+        "Bombay",
+        "High",
+        "Court",
+        "\n"
+    ],
+    "entities": [
+        [
+            "Order",
+            "ORG"
+        ],
+        [
+            "the High Court",
+            "ORG"
+        ],
+        [
+            "Bombay",
+            "GPE"
+        ],
+        [
+            "March 25, 2024",
+            "DATE"
+        ],
+        [
+            "Court",
+            "ORG"
+        ],
+        [
+            "Article 226 of the Constitution of India",
+            "LAW"
+        ],
+        [
+            "the Municipal Corporation",
+            "ORG"
+        ],
+        [
+            "Mumbai",
+            "GPE"
+        ],
+        [
+            "the Maharashtra Regional",
+            "ORG"
+        ],
+        [
+            "1966",
+            "DATE"
+        ],
+        [
+            "Bombay High Court",
+            "ORG"
+        ]
+    ],
+    "metadata": {
+        "court": "the High Court",
+        "legal_provisions": [
+            "Article 226 of the Constitution of India"
+        ],
+        "petitioner": "Petitioner not found",
+        "respondent": "Respondent not found",
+        "case_number": "Case number not found",
+        "date_of_judgment": "March 25, 2024",
+        "judge": "Judge not found"
+    },
+    "defects": [
+        "Petitioner name is missing.",
+        "Respondent name is missing.",
+        "Case number is missing.",
+        "Judge name is missing."
+    ]
+}

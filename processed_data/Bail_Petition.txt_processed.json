@@ -1,0 +1,187 @@
+{
+    "tokens": [
+        "Petitioner",
+        ":",
+        "Sunil",
+        "Sharma",
+        "\n",
+        "Respondent",
+        ":",
+        "State",
+        "of",
+        "Maharashtra",
+        "\n\n",
+        "Filed",
+        "under",
+        "Section",
+        "439",
+        "of",
+        "the",
+        "Code",
+        "of",
+        "Criminal",
+        "Procedure",
+        ",",
+        "1973",
+        ".",
+        "\n\n",
+        "Sunil",
+        "Sharma",
+        ",",
+        "a",
+        "resident",
+        "of",
+        "Pune",
+        ",",
+        "Maharashtra",
+        ",",
+        "seeks",
+        "bail",
+        "from",
+        "the",
+        "Bombay",
+        "High",
+        "Court",
+        ".",
+        "The",
+        "petitioner",
+        "was",
+        "arrested",
+        "under",
+        "Section",
+        "307",
+        "of",
+        "the",
+        "Indian",
+        "Penal",
+        "Code",
+        ",",
+        "1860",
+        ",",
+        "for",
+        "attempted",
+        "murder",
+        ".",
+        "The",
+        "petitioner",
+        "pleads",
+        "innocence",
+        "and",
+        "requests",
+        "the",
+        "court",
+        "to",
+        "grant",
+        "him",
+        "bail",
+        "pending",
+        "trial",
+        ".",
+        "\n\n",
+        "Address",
+        "of",
+        "Petitioner",
+        ":",
+        "32",
+        ",",
+        "Shivaji",
+        "Nagar",
+        ",",
+        "Pune",
+        ",",
+        "Maharashtra",
+        "411005",
+        "\n",
+        "Address",
+        "of",
+        "Respondent",
+        ":",
+        "Office",
+        "of",
+        "the",
+        "Public",
+        "Prosecutor",
+        ",",
+        "High",
+        "Court",
+        "of",
+        "Bombay",
+        ",",
+        "Mumbai",
+        "400032",
+        "\n"
+    ],
+    "entities": [
+        [
+            "Sunil Sharma",
+            "PERSON"
+        ],
+        [
+            "Section 439",
+            "LAW"
+        ],
+        [
+            "1973",
+            "DATE"
+        ],
+        [
+            "Sunil Sharma",
+            "PERSON"
+        ],
+        [
+            "Pune, Maharashtra",
+            "GPE"
+        ],
+        [
+            "the Bombay High Court",
+            "ORG"
+        ],
+        [
+            "Section 307",
+            "LAW"
+        ],
+        [
+            "1860",
+            "DATE"
+        ],
+        [
+            "32",
+            "CARDINAL"
+        ],
+        [
+            "Shivaji Nagar",
+            "PERSON"
+        ],
+        [
+            "Pune",
+            "DATE"
+        ],
+        [
+            "Address of Respondent: Office of the Public Prosecutor, High Court",
+            "WORK_OF_ART"
+        ],
+        [
+            "Bombay",
+            "GPE"
+        ],
+        [
+            "Mumbai",
+            "GPE"
+        ]
+    ],
+    "metadata": {
+        "court": "the Bombay High Court",
+        "legal_provisions": [
+            "Section 439",
+            "Section 307"
+        ],
+        "petitioner": "Sunil Sharma",
+        "respondent": "Sunil Sharma",
+        "case_number": "Case number not found",
+        "date_of_judgment": "1973",
+        "judge": "Sunil Sharma"
+    },
+    "defects": [
+        "Case number is missing."
+    ]
+}

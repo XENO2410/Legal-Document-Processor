@@ -1,0 +1,214 @@
+{
+    "tokens": [
+        "Petitioner",
+        ":",
+        "Advocate",
+        "Arjun",
+        "Mehta",
+        "\n",
+        "Respondent",
+        ":",
+        "Union",
+        "of",
+        "India",
+        "\n\n",
+        "Filed",
+        "under",
+        "Article",
+        "32",
+        "of",
+        "the",
+        "Constitution",
+        "of",
+        "India",
+        ".",
+        "\n\n",
+        "Advocate",
+        "Arjun",
+        "Mehta",
+        ",",
+        "a",
+        "practicing",
+        "lawyer",
+        "in",
+        "Delhi",
+        ",",
+        "files",
+        "this",
+        "Public",
+        "Interest",
+        "Litigation",
+        "(",
+        "PIL",
+        ")",
+        "in",
+        "the",
+        "Supreme",
+        "Court",
+        "of",
+        "India",
+        ",",
+        "seeking",
+        "the",
+        "protection",
+        "of",
+        "the",
+        "environment",
+        "and",
+        "challenging",
+        "the",
+        "Union",
+        "of",
+        "India",
+        "'s",
+        "failure",
+        "to",
+        "enforce",
+        "the",
+        "provisions",
+        "of",
+        "the",
+        "Environment",
+        "(",
+        "Protection",
+        ")",
+        "Act",
+        ",",
+        "1986",
+        ",",
+        "in",
+        "relation",
+        "to",
+        "air",
+        "pollution",
+        "in",
+        "Delhi",
+        ".",
+        "\n\n",
+        "Address",
+        "of",
+        "Petitioner",
+        ":",
+        "98",
+        ",",
+        "Defence",
+        "Colony",
+        ",",
+        "New",
+        "Delhi",
+        "110024",
+        "\n",
+        "Address",
+        "of",
+        "Respondent",
+        ":",
+        "Ministry",
+        "of",
+        "Environment",
+        ",",
+        "Forest",
+        "and",
+        "Climate",
+        "Change",
+        ",",
+        "New",
+        "Delhi",
+        "110001",
+        "\n"
+    ],
+    "entities": [
+        [
+            "Arjun Mehta",
+            "PERSON"
+        ],
+        [
+            "Union of India\n\nFiled",
+            "ORG"
+        ],
+        [
+            "Article 32 of the Constitution of India",
+            "LAW"
+        ],
+        [
+            "Arjun Mehta",
+            "PERSON"
+        ],
+        [
+            "Delhi",
+            "GPE"
+        ],
+        [
+            "this Public Interest Litigation",
+            "ORG"
+        ],
+        [
+            "the Supreme Court of India",
+            "ORG"
+        ],
+        [
+            "the Union of India's",
+            "ORG"
+        ],
+        [
+            "the Environment (Protection) Act",
+            "ORG"
+        ],
+        [
+            "1986",
+            "DATE"
+        ],
+        [
+            "Delhi",
+            "GPE"
+        ],
+        [
+            "98",
+            "CARDINAL"
+        ],
+        [
+            "New Delhi",
+            "GPE"
+        ],
+        [
+            "110024",
+            "DATE"
+        ],
+        [
+            "Address of Respondent: Ministry of Environment",
+            "WORK_OF_ART"
+        ],
+        [
+            "Forest",
+            "ORG"
+        ],
+        [
+            "New Delhi 110001",
+            "GPE"
+        ]
+    ],
+    "metadata": {
+        "document_type": "Writ Petition",
+        "court": "the Supreme Court of India",
+        "legal_provisions": [
+            "Article 32 of the Constitution of India"
+        ],
+        "petitioner": "Arjun Mehta",
+        "respondent": "Arjun Mehta",
+        "Arjun Mehta": "PERSON",
+        "Union of India\n\nFiled": "ORG",
+        "Article 32 of the Constitution of India": "LAW",
+        "Delhi": "GPE",
+        "this Public Interest Litigation": "ORG",
+        "the Supreme Court of India": "ORG",
+        "the Union of India's": "ORG",
+        "the Environment (Protection) Act": "ORG",
+        "1986": "DATE",
+        "98": "CARDINAL",
+        "New Delhi": "GPE",
+        "110024": "DATE",
+        "Address of Respondent: Ministry of Environment": "WORK_OF_ART",
+        "Forest": "ORG",
+        "New Delhi 110001": "GPE"
+    },
+    "defects": null
+}

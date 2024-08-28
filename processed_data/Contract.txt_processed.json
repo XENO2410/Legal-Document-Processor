@@ -1,0 +1,180 @@
+{
+    "tokens": [
+        "This",
+        "agreement",
+        "is",
+        "entered",
+        "into",
+        "between",
+        "M",
+        "/",
+        "s",
+        "Bharat",
+        "Industries",
+        "and",
+        "M",
+        "/",
+        "s",
+        "Gupta",
+        "&",
+        "Sons",
+        "on",
+        "the",
+        "5th",
+        "day",
+        "of",
+        "August",
+        "2023",
+        ".",
+        "\n\n",
+        "M",
+        "/",
+        "s",
+        "Bharat",
+        "Industries",
+        "agrees",
+        "to",
+        "supply",
+        "500",
+        "tons",
+        "of",
+        "steel",
+        "to",
+        "M",
+        "/",
+        "s",
+        "Gupta",
+        "&",
+        "Sons",
+        "as",
+        "per",
+        "the",
+        "terms",
+        "and",
+        "conditions",
+        "set",
+        "forth",
+        "under",
+        "the",
+        "Indian",
+        "Contract",
+        "Act",
+        ",",
+        "1872",
+        ".",
+        "Both",
+        "parties",
+        "agree",
+        "to",
+        "adhere",
+        "to",
+        "the",
+        "delivery",
+        "schedules",
+        "and",
+        "payment",
+        "terms",
+        "specified",
+        "herein",
+        ".",
+        "\n\n",
+        "Address",
+        "of",
+        "Bharat",
+        "Industries",
+        ":",
+        "101",
+        ",",
+        "Industrial",
+        "Estate",
+        ",",
+        "Mumbai",
+        ",",
+        "Maharashtra",
+        "400001",
+        "\n",
+        "Address",
+        "of",
+        "Gupta",
+        "&",
+        "Sons",
+        ":",
+        "45",
+        ",",
+        "Business",
+        "Park",
+        ",",
+        "Delhi",
+        "110001",
+        "\n"
+    ],
+    "entities": [
+        [
+            "Gupta & Sons",
+            "ORG"
+        ],
+        [
+            "the 5th day of August 2023",
+            "DATE"
+        ],
+        [
+            "500 tons",
+            "QUANTITY"
+        ],
+        [
+            "Gupta & Sons",
+            "ORG"
+        ],
+        [
+            "the Indian Contract Act",
+            "EVENT"
+        ],
+        [
+            "1872",
+            "DATE"
+        ],
+        [
+            "101",
+            "CARDINAL"
+        ],
+        [
+            "Industrial Estate",
+            "ORG"
+        ],
+        [
+            "Mumbai",
+            "GPE"
+        ],
+        [
+            "Maharashtra 400001\nAddress of Gupta & Sons",
+            "ORG"
+        ],
+        [
+            "45",
+            "CARDINAL"
+        ],
+        [
+            "Business Park",
+            "GPE"
+        ],
+        [
+            "110001",
+            "DATE"
+        ]
+    ],
+    "metadata": {
+        "document_type": "Statutory Appeal",
+        "court": "Court not found",
+        "legal_provisions": [
+            "Legal provisions not found"
+        ],
+        "petitioner": "Petitioner not found",
+        "respondent": "Respondent not found"
+    },
+    "defects": [
+        "Court name is missing.",
+        "Legal provisions are missing.",
+        "Petitioner name is missing.",
+        "Respondent name is missing."
+    ]
+}

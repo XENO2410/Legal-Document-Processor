@@ -1,0 +1,198 @@
+{
+    "tokens": [
+        "Complainant",
+        ":",
+        "Anita",
+        "Patel",
+        "\n",
+        "Respondent",
+        ":",
+        "XYZ",
+        "Electronics",
+        "Pvt",
+        ".",
+        "Ltd.",
+        "\n\n",
+        "Filed",
+        "under",
+        "the",
+        "Consumer",
+        "Protection",
+        "Act",
+        ",",
+        "2019",
+        ".",
+        "\n\n",
+        "Anita",
+        "Patel",
+        ",",
+        "a",
+        "resident",
+        "of",
+        "Ahmedabad",
+        ",",
+        "Gujarat",
+        ",",
+        "files",
+        "this",
+        "consumer",
+        "complaint",
+        "in",
+        "the",
+        "District",
+        "Consumer",
+        "Disputes",
+        "Redressal",
+        "Commission",
+        "against",
+        "XYZ",
+        "Electronics",
+        "Pvt",
+        ".",
+        "Ltd.",
+        "The",
+        "complainant",
+        "alleges",
+        "that",
+        "the",
+        "television",
+        "purchased",
+        "from",
+        "the",
+        "respondent",
+        "on",
+        "2nd",
+        "January",
+        "2024",
+        "was",
+        "defective",
+        "and",
+        "requests",
+        "a",
+        "refund",
+        "or",
+        "replacement",
+        ".",
+        "\n\n",
+        "Address",
+        "of",
+        "Complainant",
+        ":",
+        "67",
+        ",",
+        "Prahlad",
+        "Nagar",
+        ",",
+        "Ahmedabad",
+        ",",
+        "Gujarat",
+        "380015",
+        "\n",
+        "Address",
+        "of",
+        "Respondent",
+        ":",
+        "XYZ",
+        "Electronics",
+        "Pvt",
+        ".",
+        "Ltd.",
+        ",",
+        "78",
+        ",",
+        "Industrial",
+        "Area",
+        ",",
+        "Gandhinagar",
+        ",",
+        "Gujarat",
+        "382010",
+        "\n"
+    ],
+    "entities": [
+        [
+            "Anita Patel\nRespondent",
+            "PERSON"
+        ],
+        [
+            "XYZ Electronics Pvt",
+            "ORG"
+        ],
+        [
+            "the Consumer Protection Act",
+            "LAW"
+        ],
+        [
+            "2019",
+            "DATE"
+        ],
+        [
+            "Anita Patel",
+            "PERSON"
+        ],
+        [
+            "Ahmedabad",
+            "GPE"
+        ],
+        [
+            "Gujarat",
+            "GPE"
+        ],
+        [
+            "XYZ Electronics Pvt",
+            "ORG"
+        ],
+        [
+            "2nd January 2024",
+            "DATE"
+        ],
+        [
+            "67",
+            "CARDINAL"
+        ],
+        [
+            "Prahlad Nagar",
+            "PERSON"
+        ],
+        [
+            "Ahmedabad",
+            "GPE"
+        ],
+        [
+            "XYZ Electronics Pvt",
+            "ORG"
+        ],
+        [
+            "78",
+            "DATE"
+        ],
+        [
+            "Industrial Area",
+            "ORG"
+        ],
+        [
+            "Gandhinagar",
+            "GPE"
+        ],
+        [
+            "Gujarat",
+            "GPE"
+        ]
+    ],
+    "metadata": {
+        "court": "Court not found",
+        "legal_provisions": [
+            "the Consumer Protection Act"
+        ],
+        "petitioner": "Petitioner not found",
+        "respondent": "Anita Patel\nRespondent",
+        "case_number": "Case number not found",
+        "date_of_judgment": "2019",
+        "judge": "Anita Patel\nRespondent"
+    },
+    "defects": [
+        "Court name is missing.",
+        "Petitioner name is missing.",
+        "Case number is missing."
+    ]
+}

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Legal Document Processing</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <script defer src="{{ url_for('static', filename='script.js') }}"></script>
+</head>
+<body>
+    <header id="navbar">
+        <nav class="navbar">
+            <div class="navbar-brand">
+                <a href="{{ url_for('index') }}">Legal Document Processor</a>
+            </div>
+        </nav>
+    </header>
+    <main>
+        <div class="container">
+            <h1>Upload a Legal Document</h1>
+            <p>Select a .txt file containing the legal document you want to process.</p>
+            <form action="{{ url_for('upload_file') }}" method="POST" enctype="multipart/form-data">
+                <input type="file" name="file" accept=".txt" required>
+                <button type="submit">Upload and Process</button>
+            </form>
+            {% with messages = get_flashed_messages() %}
+                {% if messages %}
+                    <div class="flash-messages">
+                        <ul>
+                            {% for message in messages %}
+                                <li>{{ message }}</li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                {% endif %}
+            {% endwith %}
+        </div>
+    </main>
+    <footer>
+        <p>&copy; {{ year }} Legal Document Processor. All rights reserved.</p>
+    </footer>
+</body>
+</html>

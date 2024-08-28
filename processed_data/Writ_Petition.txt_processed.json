@@ -1,0 +1,160 @@
+{
+    "tokens": [
+        "Petitioner",
+        ":",
+        "Priya",
+        "Nair",
+        "\n",
+        "Respondent",
+        ":",
+        "Government",
+        "of",
+        "Kerala",
+        "\n\n",
+        "Filed",
+        "under",
+        "Article",
+        "226",
+        "of",
+        "the",
+        "Constitution",
+        "of",
+        "India",
+        ".",
+        "\n\n",
+        "Priya",
+        "Nair",
+        ",",
+        "a",
+        "resident",
+        "of",
+        "Kochi",
+        ",",
+        "Kerala",
+        ",",
+        "files",
+        "this",
+        "writ",
+        "petition",
+        "in",
+        "the",
+        "High",
+        "Court",
+        "of",
+        "Kerala",
+        ",",
+        "challenging",
+        "the",
+        "state",
+        "government",
+        "'s",
+        "decision",
+        "to",
+        "acquire",
+        "her",
+        "private",
+        "land",
+        "without",
+        "adequate",
+        "compensation",
+        "under",
+        "the",
+        "Land",
+        "Acquisition",
+        "Act",
+        ",",
+        "2013",
+        ".",
+        "\n\n",
+        "Address",
+        "of",
+        "Petitioner",
+        ":",
+        "45",
+        ",",
+        "MG",
+        "Road",
+        ",",
+        "Kochi",
+        ",",
+        "Kerala",
+        "682016",
+        "\n",
+        "Address",
+        "of",
+        "Respondent",
+        ":",
+        "Secretariat",
+        ",",
+        "Thiruvananthapuram",
+        ",",
+        "Kerala",
+        "695001",
+        "\n"
+    ],
+    "entities": [
+        [
+            "Article 226 of the Constitution of India",
+            "LAW"
+        ],
+        [
+            "Kochi",
+            "GPE"
+        ],
+        [
+            "Kerala",
+            "GPE"
+        ],
+        [
+            "the High Court",
+            "ORG"
+        ],
+        [
+            "the Land Acquisition Act",
+            "LAW"
+        ],
+        [
+            "2013",
+            "DATE"
+        ],
+        [
+            "45",
+            "CARDINAL"
+        ],
+        [
+            "MG Road",
+            "FAC"
+        ],
+        [
+            "Kochi",
+            "GPE"
+        ],
+        [
+            "Kerala",
+            "PERSON"
+        ],
+        [
+            "682016",
+            "CARDINAL"
+        ],
+        [
+            "Thiruvananthapuram",
+            "GPE"
+        ]
+    ],
+    "metadata": {
+        "court": "the High Court",
+        "legal_provisions": [
+            "Article 226 of the Constitution of India",
+            "the Land Acquisition Act"
+        ],
+        "petitioner": "the High Court",
+        "respondent": "the High Court",
+        "case_number": "Case number not found",
+        "date_of_judgment": "2013",
+        "judge": "Kerala"
+    },
+    "defects": [
+        "Case number is missing."
+    ]
+}

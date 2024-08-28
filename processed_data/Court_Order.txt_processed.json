@@ -1,0 +1,140 @@
+{
+    "tokens": [
+        "Order",
+        "issued",
+        "by",
+        "the",
+        "Supreme",
+        "Court",
+        "of",
+        "India",
+        ".",
+        "\n\n",
+        "Date",
+        ":",
+        "February",
+        "10",
+        ",",
+        "2024",
+        "\n\n",
+        "The",
+        "Court",
+        ",",
+        "having",
+        "heard",
+        "the",
+        "arguments",
+        "from",
+        "both",
+        "sides",
+        ",",
+        "orders",
+        "the",
+        "State",
+        "of",
+        "Uttar",
+        "Pradesh",
+        "to",
+        "stay",
+        "the",
+        "execution",
+        "of",
+        "the",
+        "judgment",
+        "passed",
+        "by",
+        "the",
+        "Allahabad",
+        "High",
+        "Court",
+        "under",
+        "Section",
+        "302",
+        "of",
+        "the",
+        "Indian",
+        "Penal",
+        "Code",
+        ",",
+        "1860",
+        ",",
+        "until",
+        "further",
+        "orders",
+        ".",
+        "\n\n",
+        "This",
+        "order",
+        "is",
+        "final",
+        "and",
+        "binding",
+        ".",
+        "\n\n",
+        "Signed",
+        ",",
+        "\n",
+        "Chief",
+        "Justice",
+        "of",
+        "India",
+        "\n"
+    ],
+    "entities": [
+        [
+            "Order",
+            "ORG"
+        ],
+        [
+            "the Supreme Court of India",
+            "ORG"
+        ],
+        [
+            "February 10, 2024",
+            "DATE"
+        ],
+        [
+            "Court",
+            "ORG"
+        ],
+        [
+            "the State of Uttar Pradesh",
+            "ORG"
+        ],
+        [
+            "the Allahabad High Court",
+            "ORG"
+        ],
+        [
+            "the Indian Penal Code,",
+            "ORG"
+        ],
+        [
+            "1860",
+            "DATE"
+        ],
+        [
+            "India",
+            "GPE"
+        ]
+    ],
+    "metadata": {
+        "document_type": "Statutory Appeal",
+        "court": "the Supreme Court of India",
+        "legal_provisions": [
+            "Legal provisions not found"
+        ],
+        "petitioner": "Petitioner not found",
+        "respondent": "Respondent not found",
+        "Order": "ORG",
+        "the Supreme Court of India": "ORG",
+        "February 10, 2024": "DATE",
+        "Court": "ORG",
+        "the State of Uttar Pradesh": "ORG",
+        "the Allahabad High Court": "ORG",
+        "the Indian Penal Code,": "ORG",
+        "1860": "DATE",
+        "India": "GPE"
+    },
+    "defects": null
+}

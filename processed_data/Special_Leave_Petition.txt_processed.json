@@ -1,0 +1,188 @@
+{
+    "tokens": [
+        "Petitioner",
+        ":",
+        "Rajesh",
+        "Kumar",
+        "\n",
+        "Respondent",
+        ":",
+        "State",
+        "of",
+        "Uttar",
+        "Pradesh",
+        "\n\n",
+        "Filed",
+        "under",
+        "Article",
+        "136",
+        "of",
+        "the",
+        "Constitution",
+        "of",
+        "India",
+        ".",
+        "\n\n",
+        "Rajesh",
+        "Kumar",
+        ",",
+        "a",
+        "resident",
+        "of",
+        "Lucknow",
+        ",",
+        "Uttar",
+        "Pradesh",
+        ",",
+        "files",
+        "this",
+        "Special",
+        "Leave",
+        "Petition",
+        "in",
+        "the",
+        "Supreme",
+        "Court",
+        "of",
+        "India",
+        ".",
+        "The",
+        "petitioner",
+        "challenges",
+        "the",
+        "judgment",
+        "passed",
+        "by",
+        "the",
+        "Allahabad",
+        "High",
+        "Court",
+        "under",
+        "Section",
+        "302",
+        "of",
+        "the",
+        "Indian",
+        "Penal",
+        "Code",
+        ",",
+        "1860",
+        ".",
+        "\n\n",
+        "Address",
+        "of",
+        "Petitioner",
+        ":",
+        "14",
+        ",",
+        "Park",
+        "Road",
+        ",",
+        "Lucknow",
+        ",",
+        "Uttar",
+        "Pradesh",
+        "226001",
+        "\n",
+        "Address",
+        "of",
+        "Respondent",
+        ":",
+        "High",
+        "Court",
+        "Building",
+        ",",
+        "Allahabad",
+        ",",
+        "Uttar",
+        "Pradesh",
+        "211001",
+        "\n"
+    ],
+    "entities": [
+        [
+            "Rajesh Kumar\nRespondent",
+            "PERSON"
+        ],
+        [
+            "Article 136 of the Constitution of India",
+            "LAW"
+        ],
+        [
+            "Rajesh Kumar",
+            "PERSON"
+        ],
+        [
+            "Lucknow",
+            "GPE"
+        ],
+        [
+            "Uttar Pradesh",
+            "ORG"
+        ],
+        [
+            "this Special Leave Petition",
+            "ORG"
+        ],
+        [
+            "the Supreme Court of India",
+            "ORG"
+        ],
+        [
+            "the Allahabad High Court",
+            "ORG"
+        ],
+        [
+            "the Indian Penal Code",
+            "ORG"
+        ],
+        [
+            "1860",
+            "DATE"
+        ],
+        [
+            "Park Road",
+            "FAC"
+        ],
+        [
+            "Uttar Pradesh",
+            "ORG"
+        ],
+        [
+            "226001",
+            "DATE"
+        ],
+        [
+            "Allahabad",
+            "GPE"
+        ],
+        [
+            "Uttar Pradesh 211001",
+            "ORG"
+        ]
+    ],
+    "metadata": {
+        "document_type": "Special Leave Petition",
+        "court": "the Supreme Court of India",
+        "legal_provisions": [
+            "Article 136 of the Constitution of India"
+        ],
+        "petitioner": "Rajesh Kumar\nRespondent",
+        "respondent": "Rajesh Kumar\nRespondent",
+        "Rajesh Kumar\nRespondent": "PERSON",
+        "Article 136 of the Constitution of India": "LAW",
+        "Rajesh Kumar": "PERSON",
+        "Lucknow": "GPE",
+        "Uttar Pradesh": "ORG",
+        "this Special Leave Petition": "ORG",
+        "the Supreme Court of India": "ORG",
+        "the Allahabad High Court": "ORG",
+        "the Indian Penal Code": "ORG",
+        "1860": "DATE",
+        "Park Road": "FAC",
+        "226001": "DATE",
+        "Allahabad": "GPE",
+        "Uttar Pradesh 211001": "ORG"
+    },
+    "defects": null
+}

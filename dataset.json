@@ -1,0 +1,216 @@
+[
+    {
+        "tokens": [
+            "Petitioner",
+            ":",
+            "Rajesh",
+            "Kumar",
+            "Respondent",
+            ":",
+            "State",
+            "of",
+            "Uttar",
+            "Pradesh",
+            "Filed",
+            "under",
+            "Article",
+            "136",
+            "of",
+            "the",
+            "Constitution",
+            "of",
+            "India",
+            ".",
+            "Rajesh",
+            "Kumar",
+            ",",
+            "a",
+            "resident",
+            "of",
+            "Lucknow",
+            ",",
+            "Uttar",
+            "Pradesh",
+            ",",
+            "files",
+            "this",
+            "Special",
+            "Leave",
+            "Petition",
+            "in",
+            "the",
+            "Supreme",
+            "Court",
+            "of",
+            "India",
+            ".",
+            "The",
+            "petitioner",
+            "challenges",
+            "the",
+            "judgment",
+            "passed",
+            "by",
+            "the",
+            "Allahabad",
+            "High",
+            "Court",
+            "under",
+            "Section",
+            "302",
+            "of",
+            "the",
+            "Indian",
+            "Penal",
+            "Code",
+            ",",
+            "1860",
+            "."
+        ],
+        "entities": [
+            [
+                "Rajesh Kumar",
+                "PERSON"
+            ],
+            [
+                "Uttar Pradesh",
+                "GPE"
+            ],
+            [
+                "Article 136",
+                "LAW"
+            ],
+            [
+                "the Constitution of India",
+                "LAW"
+            ],
+            [
+                "Rajesh Kumar",
+                "PERSON"
+            ],
+            [
+                "Lucknow",
+                "GPE"
+            ],
+            [
+                "Uttar Pradesh",
+                "GPE"
+            ],
+            [
+                "the Supreme Court of India",
+                "ORG"
+            ],
+            [
+                "the Allahabad High Court",
+                "ORG"
+            ],
+            [
+                "Section 302 of the Indian Penal Code",
+                "LAW"
+            ]
+        ]
+    },
+    {
+        "tokens": [
+            "Order",
+            "issued",
+            "by",
+            "the",
+            "Supreme",
+            "Court",
+            "of",
+            "India",
+            ".",
+            "Date",
+            ":",
+            "February",
+            "10",
+            ",",
+            "2024",
+            "The",
+            "Court",
+            ",",
+            "having",
+            "heard",
+            "the",
+            "arguments",
+            "from",
+            "both",
+            "sides",
+            ",",
+            "orders",
+            "the",
+            "State",
+            "of",
+            "Uttar",
+            "Pradesh",
+            "to",
+            "stay",
+            "the",
+            "execution",
+            "of",
+            "the",
+            "judgment",
+            "passed",
+            "by",
+            "the",
+            "Allahabad",
+            "High",
+            "Court",
+            "under",
+            "Section",
+            "302",
+            "of",
+            "the",
+            "Indian",
+            "Penal",
+            "Code",
+            ",",
+            "1860",
+            ",",
+            "until",
+            "further",
+            "orders",
+            ".",
+            "This",
+            "order",
+            "is",
+            "final",
+            "and",
+            "binding",
+            ".",
+            "Signed",
+            ",",
+            "Chief",
+            "Justice",
+            "of",
+            "India"
+        ],
+        "entities": [
+            [
+                "the Supreme Court of India",
+                "ORG"
+            ],
+            [
+                "February 10, 2024",
+                "DATE"
+            ],
+            [
+                "the State of Uttar Pradesh",
+                "GPE"
+            ],
+            [
+                "the Allahabad High Court",
+                "ORG"
+            ],
+            [
+                "Section 302",
+                "LAW"
+            ],
+            [
+                "the Indian Penal Code",
+                "LAW"
+            ]
+        ]
+    }
+]

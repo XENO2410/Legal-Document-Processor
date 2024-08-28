@@ -17,7 +17,7 @@ To get the application running locally, follow these steps:
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yourusername/yourrepository.git
+    git clone https://github.com/XENO2410/Legal-Document-Processor.git
     cd yourrepository
     ```
 
